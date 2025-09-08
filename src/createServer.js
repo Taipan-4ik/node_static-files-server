@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 
 const MIME_TYPES = {
-  '.html': 'text/plain',
+  '.html': 'text/html',
   '.css': 'text/css',
   '.js': 'application/javascript',
   '.json': 'application/json',
